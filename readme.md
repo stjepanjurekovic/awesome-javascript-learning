@@ -72,6 +72,7 @@ Thin books which you can get through in a few days.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book covering advanced language features like Iterators and Generators.
+- [Acing the Frontend Interview](https://www.manning.com/books/acing-the-frontend-interview) - A book that lays out what employers are looking for when hiring frontend roles, and how you can show those qualities at an interview. 
 
 ## Blogs
 
